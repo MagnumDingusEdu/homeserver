@@ -1,0 +1,60 @@
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);
+
+
+
+#dropdown-menu-0 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-0 .nav .link,
+#dropdown-menu-0 .dropdown-item {
+  font-size: 1.2em;
+  color: #ffffff;
+  font-family: 'Titillium Web', sans-serif;
+}
+#dropdown-menu-0 .navbar,
+#dropdown-menu-0 .dropdown-menu {
+  background: #0b0853;
+}
+#dropdown-menu-0 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-0 .dropdown-menu a:hover,
+#dropdown-menu-0 .dropdown-menu a:focus {
+  background: #090640;
+}
+#dropdown-menu-0 .navbar-toggler {
+  color: #ffffff;
+}
+#dropdown-menu-0 .btn {
+  font-size: 18px;
+}
+#header4-a H1 {
+  color: #ffffff;
+}
+#header4-a P {
+  color: #f8f8f6;
+}
+#msg-box4-6 .mbr-section-title {
+  color: #ffffff;
+}
+#msg-box4-6 .lead {
+  color: #ffffff;
+}
+#msg-box4-6 .mbr-section-title B {
+  font-size: 46px;
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box4-7 .lead {
+  color: #ffffff;
+}
+#msg-box4-7 .mbr-section-title {
+  color: #ffffff;
+}
+#msg-box1-a P {
+  color: #ffffff;
+  font-family: 'Roboto Slab', serif;
+  text-align: left;
+}
+#msg-box1-a H2 {
+  color: #f1c050;
+}
